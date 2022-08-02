@@ -10,4 +10,5 @@
 - [AWS Certified Cloud Practitioner (CLF-C01) Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)
 
 ## AWS Cloud Practioner Essentials Online Course Notes
-- [Module 1: Introduction to Amazon Web Services]()
+- [Module 1: Introduction to Amazon Web Services](https://github.com/pslucas0212/AWS-Cloud-Practioner-Class-Module-01)
+- [Module 2: Introduction to Amazon EC2]()
