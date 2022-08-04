@@ -13,4 +13,4 @@
 - [Module 1: Introduction to Amazon Web Services](https://github.com/pslucas0212/AWS-Cloud-Practioner-Class-Module-01)
 - [Module 2: Introduction to Amazon EC2](https://github.com/pslucas0212/AWS-Cloud-Practioner-Class-Module-02)
 - [Module 3: Global Infrastructure and Reliability](https://github.com/pslucas0212/AWS-Cloud-Practioner-Module-3)
-- [Module 4: Networking]()
+- [Module 4: Networking](https://github.com/pslucas0212/AWS-Cloud-Practitioner-Class-04)
