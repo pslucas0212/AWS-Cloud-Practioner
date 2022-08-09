@@ -16,3 +16,4 @@
 - [Module 4: Networking](https://github.com/pslucas0212/AWS-Cloud-Practitioner-Class-04)
 - [Module 5: Storage and Databases](https://github.com/pslucas0212/AWS-Cloud-Practioner-Class-Module-05)
 - [Module 6: Security](https://github.com/pslucas0212/AWS-Cloud-Practioner-Class-Module-06)
+- [Module 7: Monitoring and Analytics](https://github.com/pslucas0212/AWS-Cloud-Practioner-Class-Module-07)
