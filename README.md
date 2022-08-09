@@ -17,3 +17,4 @@
 - [Module 5: Storage and Databases](https://github.com/pslucas0212/AWS-Cloud-Practioner-Class-Module-05)
 - [Module 6: Security](https://github.com/pslucas0212/AWS-Cloud-Practioner-Class-Module-06)
 - [Module 7: Monitoring and Analytics](https://github.com/pslucas0212/AWS-Cloud-Practioner-Class-Module-07)
+- [Module 8: Pricing and Support](https://github.com/pslucas0212/AWS-Cloud-Practioner-Class-Module-08)
