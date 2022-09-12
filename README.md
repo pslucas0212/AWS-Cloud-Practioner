@@ -19,3 +19,4 @@
 - [Module 7: Monitoring and Analytics](https://github.com/pslucas0212/AWS-Cloud-Practioner-Class-Module-07)
 - [Module 8: Pricing and Support](https://github.com/pslucas0212/AWS-Cloud-Practioner-Class-Module-08)
 - [Module 9: Migration and Innovation ](https://github.com/pslucas0212/AWS-Cloud-Practioner-Class-Module-09)
+- [Module 10: ](https://github.com/pslucas0212/AWS-Cloud-Practioner-Class-Module-10)
