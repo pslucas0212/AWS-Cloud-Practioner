@@ -9,7 +9,8 @@
 ## Certification
 - [AWS Certified Cloud Practitioner (CLF-C01) Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)
 
-## AWS Cloud Practioner Essentials Online Course Notes
+## Training Notes
+AWS Cloud Practioner Essentials Online Course Notes
 - [Module 1: Introduction to Amazon Web Services](https://github.com/pslucas0212/AWS-Cloud-Practioner-Class-Module-01)
 - [Module 2: Introduction to Amazon EC2](https://github.com/pslucas0212/AWS-Cloud-Practioner-Class-Module-02)
 - [Module 3: Global Infrastructure and Reliability](https://github.com/pslucas0212/AWS-Cloud-Practioner-Module-3)
@@ -22,6 +23,9 @@
 - [Module 10: The Cloud Journey](https://github.com/pslucas0212/AWS-Cloud-Practioner-Class-Module-10)
 
 - [AWS Virtual classroom training offerings - Arlington Classroom](https://aws.amazon.com/training/skills-centers/arlington-skills-center/)
+ 
+ A Cloud Guru
+ - [Certified Cloud Praticioner Review Notes](https://github.com/pslucas0212/AWS-Review-Notes)
 
 ## Sample Exam Questions
 - [30 Free Questions on AWS Cloud Practitioner Certification exam [ Updated – 2022 ]](https://www.whizlabs.com/blog/aws-cloud-practitioner-certification-questions/)
