@@ -22,3 +22,6 @@
 - [Module 10: The Cloud Journey](https://github.com/pslucas0212/AWS-Cloud-Practioner-Class-Module-10)
 
 - [AWS Virtual classroom training offerings - Arlington Classroom](https://aws.amazon.com/training/skills-centers/arlington-skills-center/)
+
+## Sample Exam Questions
+- [30 Free Questions on AWS Cloud Practitioner Certification exam [ Updated – 2022 ]](https://www.whizlabs.com/blog/aws-cloud-practitioner-certification-questions/)
